@@ -1,5 +1,7 @@
 # TransitionAnimators
 
+![image](https://github.com/570262616/TransitionAnimators/blob/master/Untitled.gif)
+
 ## Features
 * dissolve Animator
 * move Animator
